@@ -6,7 +6,7 @@
 > ## 二级标题
 > ### 三级标题
 > #### 四级标题
-![标题命名](https://cdn.jsdeliver.net/gh/Kimmy-pqm/img-bed/images/20261119101443493.png)
+![标题命名](http://cdn.jsdeliver.net/gh/Kimmy-pqm/img-bed/images/20261119101443493.png)
 
 ### 2.加粗、斜体
 如下例所示
@@ -15,7 +15,7 @@
 > 加粗 **原始字体**
 > 斜体加粗 ***原始字体***
 
-![加粗、斜体](https://cdn.jsdeliver.net/gh/Kimmy-pqm/img-bed/images/20261119102141802.png)
+![加粗、斜体](http://cdn.jsdeliver.net/gh/Kimmy-pqm/img-bed/images/20261119102141802.png)
 
 ### 3.下划线、删除线
 如下例所示
